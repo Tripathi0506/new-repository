@@ -1,0 +1,22 @@
+h1 {
+    background-color: rgb(128, 9, 0);
+    color: black;
+    border: solid 5px;
+    font-size: 1em;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: Courier New;
+    text-align: center;
+    margin: 20px;
+    padding: 0.7em;
+    width: 300px;
+    transition: margin-left 0.3s;
+}
+
+h1:hover {
+    background-color: aqua;
+    border-radius: 30%;
+
+
+    margin: 500px;
+}

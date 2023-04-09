@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: large;
+
+}
+
+#container {
+    background-image: "C:\Users\Prateek Tripathi\Downloads\WhatsApp Image 2022-10-28 at 8.28.57 AM.jpeg";
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: #003049;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid red;
+    display: flex;
+
+}
+
+
+#container div {
+    max-width: 200px;
+    max-height: 100px;
+}
